@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Jul 12 16:04:03 ICT 2021
+0.baseType=DIRECTORY
+0.base=D\:\\SEMESTER 4\\Pemrograman Perangkat Mobile\\Espresso\\PhoneNumberSpinnerEspresso\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

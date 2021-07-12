@@ -1,0 +1,4 @@
+#Mon Jul 12 16:04:02 ICT 2021
+base.0=D\:\\SEMESTER 4\\Pemrograman Perangkat Mobile\\Espresso\\PhoneNumberSpinnerEspresso\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
